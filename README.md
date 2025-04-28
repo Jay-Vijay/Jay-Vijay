@@ -34,7 +34,7 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vijay&layout=compact&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Vijay&theme=tokyonight&row=2&column=3)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Vijay&theme=tokyonight&row=6&column=4)
 
 
 ---
