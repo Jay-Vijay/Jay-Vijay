@@ -33,6 +33,8 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 ## 📈 GitHub Stats:
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealphaengineer&layout=compact&theme=tokyonight)
+
 ---
 > “Excellence is not an act, but a habit.” — Aristotle
 
