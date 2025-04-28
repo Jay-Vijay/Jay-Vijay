@@ -14,7 +14,6 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=html&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -28,7 +27,6 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 ![Seaborn](https://img.shields.io/badge/Seaborn-3D3D3D?style=for-the-badge&logo=seaborn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-05122A?style=for-the-badge&logo=python&logoColor=white)
 ![Spacy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
