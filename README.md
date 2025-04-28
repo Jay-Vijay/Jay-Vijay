@@ -3,13 +3,13 @@
 Engineer at heart, scientist by passion — crafting intelligent systems with precision and purpose.
 
 - 🔭 Currently working on: Advanced Machine Learning and AI Systems
-- 🌱 Deepening expertise in: Computer Vision, NLP, and Scalable ML Engineering
+- 🌱 Deepening expertise in: Computer Vision, NLP, and ML Integration with Cybersecurity
 - 💬 Ask me about: Machine Learning, Data Science, AI Research, Writing Books
 - 📫 Reach me at:
+- LinkedIn : [My LinkedIn Page](https://www.linkedin.com/in/jayashrinidhi-vijayaraghavan-4a3861257/)
 - My website: [studyspaceaiml.netlify.app](https://studyspaceaiml.netlify.app/)
 - ⚡ Fun fact: Strategic reader 📚 | Problem-solver by nature
 
-## 🚀 Languages and Tools:
 ## 🚀 Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
