@@ -32,14 +32,16 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 
 ## 📈 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vijay&theme=tokyonight)
-
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Vijay&theme=tokyonight&row=6&column=4)
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Jay-Vijay&color=blueviolet)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jay-Vijay&theme=tokyonight)
 
+![snake gif](https://github.com/Jay-Vijay/Jay-Vijay/blob/output/github-contribution-grid-snake.svg)
 
 ---
 > “Excellence is not an act, but a habit.” — Aristotle
