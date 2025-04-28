@@ -33,7 +33,7 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats:
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
 
 ---
 > “Excellence is not an act, but a habit.” — Aristotle
