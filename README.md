@@ -31,12 +31,13 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vijay&theme=tokyonight)
+
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Vijay&theme=tokyonight&row=6&column=4)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vijay&layout=compact&theme=tokyonight)
 
 
 
