@@ -31,10 +31,12 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats:
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
-<img width="854" alt="image" src="https://github.com/user-attachments/assets/4de7a3fa-e31c-4ab6-ad73-3febc43d0933" />
-
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jay-Vijay&theme=tokyo-night)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vijay&layout=compact&theme=tokyonight)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jay-Vijay&theme=tokyonight&row=2&column=3)
+
 
 ---
 > “Excellence is not an act, but a habit.” — Aristotle
