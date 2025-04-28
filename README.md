@@ -32,6 +32,7 @@ Engineer at heart, scientist by passion — crafting intelligent systems with pr
 
 ## 📈 GitHub Stats:
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Vijay&show_icons=true&theme=tokyonight)
+<img width="854" alt="image" src="https://github.com/user-attachments/assets/4de7a3fa-e31c-4ab6-ad73-3febc43d0933" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Vijay&layout=compact&theme=tokyonight)
 
